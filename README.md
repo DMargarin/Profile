@@ -1,12 +1,22 @@
 # **Привет!!! Это мой профиль гитхаб!**
 ## *Профиль что надо, просто замечательный!*
-### ~~По теории информации сказали оформить через markdown, воот~~
+
 ____
+Мои интересы:
++ фильмы ужасов
++ видеоигры
++ аниме
++ вкусная еда
++ хороший отдых
+
+Мне не нравится:
++ мало спать
++ часто расстраиваться
++ ловить панику
 
 
-
-![koshnya](https://media.tenor.com/7t63GFnoIPUAAAAd/huh-cat-huh-m4rtin.gif)
-![poros'](https://media.tenor.com/GFMT5xXrN10AAAAC/pig-crying.gif)
+[![koshnya](https://media.tenor.com/7t63GFnoIPUAAAAd/huh-cat-huh-m4rtin.gif)](https://www.youtube.com/watch?v=xVWeRnStdSA&ab_channel=MemeHub)
+[![poros'](https://media.tenor.com/GFMT5xXrN10AAAAC/pig-crying.gif)](https://smotrim.ru/article/3618921)
 
 
 
