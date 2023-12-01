@@ -1,15 +1,17 @@
-# Привет!!! Это мой профиль гитхаб!
-## Профиль что надо, просто замечательный
+# **Привет!!! Это мой профиль гитхаб!**
+## *Профиль что надо, просто замечательный!*
 ### ~~По теории информации сказали оформить через markdown, воот~~
 ____
-**Жирным текстом я пишу** *и курсивом я пишу,* ***а это продукт их любви***
 
-> 3 факта, которые я знаю о Ницше:
-> > 1. Ницше пил мочу 
-> > > 2. Ницше пил мочу 
-> > > > 3. Ницше пил мочу 
 
 
 ![koshnya](https://media.tenor.com/7t63GFnoIPUAAAAd/huh-cat-huh-m4rtin.gif)
 ![poros'](https://media.tenor.com/GFMT5xXrN10AAAAC/pig-crying.gif)
 
+
+
+# Лайк, шер, пост!
+
+[![vk](https://cdn-icons-png.flaticon.com/128/4494/4494517.png)](https://vk.com/dmargarin)
+[![tg](https://cdn-icons-png.flaticon.com/128/4494/4494485.png)](https://www.youtube.com/channel/UC5xuep3PgLmLNEZsTOAIHDw)
+[![tg](https://cdn-icons-png.flaticon.com/128/4494/4494567.png)](https://www.twitch.tv/dmitrii_margarin)
