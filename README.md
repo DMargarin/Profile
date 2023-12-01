@@ -23,6 +23,6 @@ ____
 _____
 # Лайк, шер, пост!
 
-[![vk](https://cdn-icons-png.flaticon.com/128/4494/4494517.png)](https://vk.com/dmargarin, "помойка")
-[![yt](https://cdn-icons-png.flaticon.com/128/4494/4494485.png)](https://www.youtube.com/channel/UC5xuep3PgLmLNEZsTOAIHDw, "труба")
-[![tw](https://cdn-icons-png.flaticon.com/128/4494/4494567.png)](https://www.twitch.tv/dmitrii_margarin, "соя")
+[![vk](https://cdn-icons-png.flaticon.com/128/4494/4494517.png)](https://vk.com/dmargarin)
+[![yt](https://cdn-icons-png.flaticon.com/128/4494/4494485.png)](https://www.youtube.com/channel/UC5xuep3PgLmLNEZsTOAIHDw)
+[![tw](https://cdn-icons-png.flaticon.com/128/4494/4494567.png)](https://www.twitch.tv/dmitrii_margarin)
