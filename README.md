@@ -9,7 +9,7 @@ ____
 > > > 2. Ницше пил мочу 
 > > > > 3. Ницше пил мочу 
 
-<p>
+
 ![koshnya](https://media.tenor.com/7t63GFnoIPUAAAAd/huh-cat-huh-m4rtin.gif)
 ![poros'](https://media.tenor.com/GFMT5xXrN10AAAAC/pig-crying.gif)
-</p>
+
